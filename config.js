@@ -11,7 +11,7 @@ const CONFIG = {
     btnReply: 'Gửi feedback cho anh ngiu <3',
     reply: 'Do em quá là mê anh rùi <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Vậy thì chần chứ gì mà không nhắn yêu anh nào.',
+    messDesc: 'Vậy thì chần chừ gì mà không nhắn yêu anh nào.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/messages/e2ee/t/8014905441872595' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
